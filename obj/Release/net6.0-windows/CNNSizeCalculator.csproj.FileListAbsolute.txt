@@ -1,0 +1,16 @@
+E:\Users\Zhongliang\Desktop\CNNSizeCalculator\CNNSizeCalculator\bin\Release\net6.0-windows\CNNSizeCalculator.exe
+E:\Users\Zhongliang\Desktop\CNNSizeCalculator\CNNSizeCalculator\bin\Release\net6.0-windows\CNNSizeCalculator.deps.json
+E:\Users\Zhongliang\Desktop\CNNSizeCalculator\CNNSizeCalculator\bin\Release\net6.0-windows\CNNSizeCalculator.runtimeconfig.json
+E:\Users\Zhongliang\Desktop\CNNSizeCalculator\CNNSizeCalculator\bin\Release\net6.0-windows\CNNSizeCalculator.dll
+E:\Users\Zhongliang\Desktop\CNNSizeCalculator\CNNSizeCalculator\bin\Release\net6.0-windows\ref\CNNSizeCalculator.dll
+E:\Users\Zhongliang\Desktop\CNNSizeCalculator\CNNSizeCalculator\bin\Release\net6.0-windows\CNNSizeCalculator.pdb
+E:\Users\Zhongliang\Desktop\CNNSizeCalculator\CNNSizeCalculator\obj\Release\net6.0-windows\CNNSizeCalculator.Form1.resources
+E:\Users\Zhongliang\Desktop\CNNSizeCalculator\CNNSizeCalculator\obj\Release\net6.0-windows\CNNSizeCalculator.csproj.GenerateResource.cache
+E:\Users\Zhongliang\Desktop\CNNSizeCalculator\CNNSizeCalculator\obj\Release\net6.0-windows\CNNSizeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Zhongliang\Desktop\CNNSizeCalculator\CNNSizeCalculator\obj\Release\net6.0-windows\CNNSizeCalculator.AssemblyInfoInputs.cache
+E:\Users\Zhongliang\Desktop\CNNSizeCalculator\CNNSizeCalculator\obj\Release\net6.0-windows\CNNSizeCalculator.AssemblyInfo.cs
+E:\Users\Zhongliang\Desktop\CNNSizeCalculator\CNNSizeCalculator\obj\Release\net6.0-windows\CNNSizeCalculator.csproj.CoreCompileInputs.cache
+E:\Users\Zhongliang\Desktop\CNNSizeCalculator\CNNSizeCalculator\obj\Release\net6.0-windows\CNNSizeCalculator.dll
+E:\Users\Zhongliang\Desktop\CNNSizeCalculator\CNNSizeCalculator\obj\Release\net6.0-windows\ref\CNNSizeCalculator.dll
+E:\Users\Zhongliang\Desktop\CNNSizeCalculator\CNNSizeCalculator\obj\Release\net6.0-windows\CNNSizeCalculator.pdb
+E:\Users\Zhongliang\Desktop\CNNSizeCalculator\CNNSizeCalculator\obj\Release\net6.0-windows\CNNSizeCalculator.genruntimeconfig.cache
